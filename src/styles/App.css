@@ -1,1 +1,6 @@
-
+form div{
+    margin-block: 20px;
+}
+button{
+    margin-block: 5px;
+}
